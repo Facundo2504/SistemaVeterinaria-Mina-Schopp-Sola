@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "CesOOaqEkiQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Desktop\\SistemaVeterinaria-Mina-Schopp-Sola\\SistemaVeterinariaAPI\\SistemaVeterinariaAPI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Microsoft.AspNetCore.OpenApi (>= 10.0.6)' para 'net10.0'. PackageSourceMapping está habilitado. No se tuvieron en cuenta los siguientes orígenes: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\SistemaVeterinaria-Mina-Schopp-Sola\\SistemaVeterinariaAPI\\SistemaVeterinariaAPI.csproj",
+      "filePath": "C:\\Users\\USER\\OneDrive\\Desktop\\SistemaVeterinaria-Mina-Schopp-Sola\\SistemaVeterinariaAPI\\SistemaVeterinariaAPI.csproj",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
