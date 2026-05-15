@@ -16,7 +16,7 @@ public class AppDbContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            optionsBuilder.UseSqlServer("Server=VeterinariaDB;Database=EscuelaDB;Trusted_Connection=True;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=VeterinariaDB;Trusted_Connection=True;TrustServerCertificate=True;");
         }
     }
 }
